@@ -1232,6 +1232,15 @@ section {
   background: #8ec4dd;
 }
 
+
+form {
+  text-align: center;
+}
+
+.text-center{
+  padding: 10px;
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
